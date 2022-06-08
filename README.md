@@ -1,6 +1,6 @@
 # NLW2021-heat-react
 
-Projeto desenvolvido na Next Leve Week de 2021, evento promovido pela RocketSeat
+Projeto desenvolvido na Next Level Week de 2021, evento promovido pela RocketSeat
 
 ## 🚀 About me
 
